@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "SQLite"
+rootProject.name = "2-VideoPlay"
 include ':app'
